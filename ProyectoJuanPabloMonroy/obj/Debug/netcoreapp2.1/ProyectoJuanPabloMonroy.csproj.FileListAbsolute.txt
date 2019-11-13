@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\ProyectoJuanPabloMonroy\ProyectoJuanPabloMonroy\bin\Debug\netcoreapp2.1\ProyectoJuanPabloMonroy.deps.json
+C:\Users\DELL\source\repos\ProyectoJuanPabloMonroy\ProyectoJuanPabloMonroy\bin\Debug\netcoreapp2.1\ProyectoJuanPabloMonroy.runtimeconfig.json
+C:\Users\DELL\source\repos\ProyectoJuanPabloMonroy\ProyectoJuanPabloMonroy\bin\Debug\netcoreapp2.1\ProyectoJuanPabloMonroy.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\ProyectoJuanPabloMonroy\ProyectoJuanPabloMonroy\bin\Debug\netcoreapp2.1\ProyectoJuanPabloMonroy.dll
+C:\Users\DELL\source\repos\ProyectoJuanPabloMonroy\ProyectoJuanPabloMonroy\bin\Debug\netcoreapp2.1\ProyectoJuanPabloMonroy.pdb
+C:\Users\DELL\source\repos\ProyectoJuanPabloMonroy\ProyectoJuanPabloMonroy\obj\Debug\netcoreapp2.1\ProyectoJuanPabloMonroy.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ProyectoJuanPabloMonroy\ProyectoJuanPabloMonroy\obj\Debug\netcoreapp2.1\ProyectoJuanPabloMonroy.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProyectoJuanPabloMonroy\ProyectoJuanPabloMonroy\obj\Debug\netcoreapp2.1\ProyectoJuanPabloMonroy.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ProyectoJuanPabloMonroy\ProyectoJuanPabloMonroy\obj\Debug\netcoreapp2.1\ProyectoJuanPabloMonroy.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ProyectoJuanPabloMonroy\ProyectoJuanPabloMonroy\obj\Debug\netcoreapp2.1\ProyectoJuanPabloMonroy.dll
+C:\Users\DELL\source\repos\ProyectoJuanPabloMonroy\ProyectoJuanPabloMonroy\obj\Debug\netcoreapp2.1\ProyectoJuanPabloMonroy.pdb
